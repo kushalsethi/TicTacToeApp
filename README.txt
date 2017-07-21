@@ -1,0 +1,1 @@
+A simple java console project that allows to play TicTacToe against your friend or computer.
