@@ -1,4 +1,4 @@
-A simple java console application that allows to play TicTacToe against your friend or computer.
+A simple java console application that allows you to play TicTacToe game against your friend or computer.
 ------------------------------------------------------------------------------------------------
 Requirements: Java JDK>=6
 
